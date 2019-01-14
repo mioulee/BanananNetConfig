@@ -2,8 +2,8 @@
 1051.hinet-hua.xyz:50086:台湾
 193.110.202.243:60089:香港
 193.110.202.243:60089:香港
-hkbn1.rux.vps1.rux.cloud:60086:香港
-hkbn1.rux.vps1.rux.cloud:60086:香港
+hkbn1.rux.vps1.rux.cloud:60089:香港
+hkbn1.rux.vps1.rux.cloud:60089:香港
 1051.hinet-hua.xyz:50086:Netflix
 tp-cht-vps14.pqs.pw:60086:Netflix
 202.144.195.119:60089:美国

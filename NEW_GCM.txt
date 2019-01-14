@@ -5,7 +5,6 @@
 hkbn1.rux.vps1.rux.cloud:60089:香港
 hkbn1.rux.vps1.rux.cloud:60089:香港
 1051.hinet-hua.xyz:50086:Netflix
-tp-cht-vps14.pqs.pw:60086:Netflix
 202.144.195.119:60089:美国
 103.70.59.184:60089:美国
 103.70.59.208:60089:美国

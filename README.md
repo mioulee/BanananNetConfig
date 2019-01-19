@@ -1,3 +1,3 @@
 # BanananNetConfig
-大标题
+支付成功，请点左上角按钮返回
 ====

@@ -1,5 +1,5 @@
 66
-1.3.0
+1.4.0
 https://testflight.apple.com/join/0QhRcg1c
 54.37.201.31:8080
 B83EF06A/2020-01-01 00:00:00

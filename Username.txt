@@ -1,5 +1,5 @@
 66
-1.4.0
+1.4.1
 https://testflight.apple.com/join/v5x8B81b
 193.110.202.243:8080
 B0FB0D4D/2019-02-25 00:00:00

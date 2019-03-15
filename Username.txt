@@ -1,6 +1,6 @@
 79
 1.6.0
 https://testflight.apple.com/join/v5x8B81b
-54.37.201.31:8080
+banana.llbb.ml:8080
 54.37.201.31:8080
 CB5B746F211@1/2019-01-26 00:00:00
